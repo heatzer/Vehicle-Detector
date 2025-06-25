@@ -12,7 +12,6 @@ This project demonstrates a classic computer vision approach for vehicle detecti
 - [Usage](#-usage)
 - [Model Evaluation](#-model-evaluation)
 - [Future Work](#-future-work)
-- [License](#-license)
 
 ## 📝 Project Overview
 
@@ -140,7 +139,3 @@ Potential future improvements for this project include:
 -   **Hyperparameter Tuning**: Fine-tuning the parameters of the machine learning models (e.g., `n_neighbors` for KNN, `C` and `gamma` for SVM) could lead to even better performance.
 -   **Sliding Window Approach**: Implementing a sliding window technique to detect vehicles in larger images at different scales and locations.
 -   **Deep Learning Models**: Exploring the use of Convolutional Neural Networks (CNNs) for an end-to-end vehicle detection system, which could potentially yield higher accuracy and robustness.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
